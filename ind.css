@@ -2,9 +2,15 @@ h4{
     color:bisque
 }
 h2{
+    background-color: blanchedalmond;
     color:rgb(223, 27, 223);
 }
 h1
 {
     color:#ffff00;
+}
+h5{
+    color: red;
+    background-color: blue;
+    padding:50px;
 }

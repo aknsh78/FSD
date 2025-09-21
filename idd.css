@@ -1,0 +1,28 @@
+#box{
+    background-color:#0000ff;
+    color:rgb(255,255,255);
+}
+p{
+    color:rgb(222, 231, 231);
+    font-size:23px;
+}
+.end{
+    background-color: blueviolet;
+}
+div{
+    background-color: crimson;
+    text-align:center;
+    text-decoration: #0000ff;
+    font-style: italic;
+    padding: 10px;
+    margin: 1px;
+}
+
+#block
+{
+    background-color:rgb(56, 197, 68);
+    padding:5px 3px 4px 6px;
+    margin:4px;
+    text-decoration: blueviolet;
+
+}
