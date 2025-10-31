@@ -1,0 +1,39 @@
+body{
+    background-color: aqua;
+}
+@media only screen and (max-width:300px){
+    body{
+        background-color:red;
+
+    }
+
+}
+.container{
+
+}
+.box1{
+    weight: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    podition:static;
+    
+
+}
+.box2{
+    weight: 200px;
+    height: 200px;
+    background-color: rgb(240, 57, 121);
+
+}
+.box3{
+    weight: 200px;
+    height: 200px;
+    background-color: rgb(105, 202, 70);
+
+}
+.box4{
+    weight: 200px;
+    height: 200px;
+    background-color: rgb(62, 95, 240);
+
+}

@@ -1,0 +1,55 @@
+body{
+    background:linear-gradient( to right,  rgb(140, 239, 140),rgb(141, 239, 242))
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:200;
+    font-size: 20px;
+    color:rgb(83, 114, 217)
+}
+h1{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:200;
+    font-size: 20px;
+    color:aquamarine;
+
+}
+.test{
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 2px;
+    word-spacing: 9px;
+    text-decoration:dotted;
+    text-indent:8px
+}
+#box{
+    height:300;
+    width:350;
+    background-color: blueviolet;
+    border-radius: 15px;
+}
+#next{
+    height:250;
+    width:300;
+    background-color: rgb(43, 202, 226);
+    border-radius: 15px;
+
+}
+.styl{
+    padding-left: 15px;
+    margin:30px;
+    inset-inline: 20px;
+}
+*{
+    margin:0;
+    padding:0;
+}
+nav{
+    background-color: chocolate;
+    height: 70;
+    display:flex;
+    align-items:center;
+    justify-content:space-between ;
+
+}

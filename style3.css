@@ -1,0 +1,18 @@
+img[alt]{
+    border-width: 4px;
+    border-color: rgb(24, 24, 31);
+   
+    border-style: dotted;
+}
+input[type= "radio"]{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration-color: rgb(100, 206, 210);
+}
+a{
+    text-decoration: none;
+    color:crimson;
+}
+div{
+    height:20px;
+    padding-left: 30px;
+}

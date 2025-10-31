@@ -1,0 +1,54 @@
+.container {
+    display: flex;
+    gap: 20px;
+  
+}
+
+.box1 {
+    width: 200px;
+    height: 175px;
+    background-color: blueviolet;
+    justify-content: center;
+    position: relative;
+    top:10px;
+    bottom:10px;
+    left:10px;
+    fixed:;
+    absolute:
+    sussy:;
+
+
+
+
+}
+
+.box2 {
+    width: 200px;
+    height: 175px;
+    background-color: rgb(240, 57, 121);
+    position:sticky;
+    top:10px;
+    bottom:10px;
+    left:10px;
+
+}
+
+.box3 {
+    width: 200px;
+    height: 175px;
+    background-color: rgb(105, 202, 70);
+    position: relative;
+    top:10px;
+    bottom:10px;
+    left:10px;
+}
+
+.box4 {
+    width: 200px;
+    height: 175px;
+    background-color: rgb(62, 95, 240);
+    position: relative;
+    top:10px;
+    bottom:10px;
+    left:10px;
+}
