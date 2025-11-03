@@ -1,0 +1,17 @@
+#div {
+  width: 120px;
+  height: 150px;
+  background-color: aqua;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes example {
+    0% {background-color: rgb(83, 184, 227); left: 0px; top: 0px;}
+    20% {background-color: rgb(204, 36, 36); left: 200px; top: 0px;}
+    50% {background-color: rgba(17, 59, 210, 0.732); left: 200px; top: 200px;}
+    80%  {background-color: rgba(45, 215, 57, 0.732); left: 200px; top: 200px;}
+    100%  {background-color: rgba(236, 243, 23, 0.732); left: 200px; top: 200px;}
+
+}

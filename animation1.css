@@ -1,0 +1,13 @@
+#div {
+  width: 60px;
+  height: 70px;
+  background-color: aqua;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite; /* optional — repeats forever */
+}
+
+@keyframes example {
+  from { background-color: rgb(255, 94, 0); }
+  to { background-color: rgb(232, 130, 147); }
+}
