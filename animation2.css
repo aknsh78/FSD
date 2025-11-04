@@ -4,6 +4,7 @@
   background-color: aqua;
   animation-name: example;
   animation-duration: 4s;
+  
   animation-iteration-count: infinite;
 }
 
